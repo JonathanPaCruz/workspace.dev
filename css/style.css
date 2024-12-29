@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color: rgb(81, 235, 20);
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: rgb(194, 106, 106);
+    font-size: 20px;
+    text-align: center;
+
+}
+h2{
+    color: rgb(235, 20, 20);
+    font-size: 20px;
+    font-weight: bold;
+}
+li{
+    color: rgb(235, 185, 20);
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+span{
+    color: rgb(20, 235, 229);
+    font-size: 20px;
+}
+.list-aceites{
+    color: rgb(20, 167, 235);
+    font-size: 20px;
+}
+.locales{
+    color: rgb(20, 59, 235);
+    font-size: 20px;
+}
+#locales{
+    color: rgb(235, 20, 224);
+    font-size: 20px;
+}
+/**/
