@@ -4,3 +4,4 @@ if (4 > 5) {
 } else {
   console.log("5 mayor a 5");
 }
+console.log("Edición view.js");
