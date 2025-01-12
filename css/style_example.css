@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.formulario{
+  background: red;
+  padding: 30px;
+}
+.formulario_input{
+  padding: 8px 20px;
+  width: 96%;
+}
+.frm_submit{
+  text-transform: uppercase;
+  color: aliceblue;
+  background: rgb(35, 36, 37);
+  width: 50%;
+}
+.frm_submit:hover{
+  background: rgb(61, 61, 61);
+}
